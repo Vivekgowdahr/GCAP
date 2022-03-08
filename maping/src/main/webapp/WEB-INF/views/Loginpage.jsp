@@ -7,6 +7,7 @@
 <meta charset="ISO-8859-1">
 <title>Insert title here</title>
 </head>
+<h1>Login Page</h1>
 <body>
 <form action="./login" method="post">
 <input type="number" name="patient_Id" placeholder="patient_Id">
